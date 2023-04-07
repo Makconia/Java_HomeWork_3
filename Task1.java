@@ -1,3 +1,5 @@
+// 1.Реализовать алгоритм сортировки слиянием и выборкой.
+
 import java.util.Arrays;
  
 public class Task1 {
